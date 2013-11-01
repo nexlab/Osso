@@ -34,6 +34,7 @@
       "P8.17",   /* Digital input 6 */
       "P8.18",   /* Digital input 7 */
       "P8.26",   /* Digital input 8 */
+      "P9.12",   /* Relay 1 */
       "P8.7",    /* Relay 7 */
       "P9.15",   /* Relay 2 */
       "P9.23",   /* Relay 3 */
@@ -59,6 +60,7 @@
                0x02c 0x37 /* INPUT MODE7 pullup */
                0x08c 0x37 /* INPUT MODE7 pullup */
                0x07c 0x37 /* INPUT MODE7 pullup */
+               0x078 0x07 /* OUTPUT MODE7, pulldown */
                0x090 0x07 /* OUTPUT MODE7, pulldown */
                0x040 0x07 /* OUTPUT MODE7, pulldown */
                0x044 0x07 /* OUTPUT MODE7, pulldown */
