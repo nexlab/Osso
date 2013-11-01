@@ -3,6 +3,8 @@ Osso
 
 Osso Beaglebone (white/black) I/O cape board support files
 
+![Osso board](images/Osso_650x450.jpg)
+
 
 Pin diagram (green dot pins are optional, other required):
 
