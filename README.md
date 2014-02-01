@@ -3,7 +3,8 @@ Osso
 
 Osso Beaglebone (white/black) I/O cape board support files
 
-![Osso board](images/Osso_650x450.jpg)
+![Osso board](images/Osso2_650x450.jpg)
+![Osso board](images/Osso3_650x450.jpg)
 
 Do you like our cape? donations in Bitcoins are accepted to 1FfyqV2SnrhM5sTwL9jUCt2qPDgCPnwggi
 
