@@ -12,6 +12,9 @@ from usb or power connector on the beaglebone! )
 
 The size of the cape is a standard format for 9 units DIN mount boxes.
 
+Test Debian GNU/Linux install available: take a look at 
+https://github.com/unixmedia/Osso/wiki/Osso-Test-Installation
+
 For more infos: 
 http://www.unixmedia.it/en/domotika/schede-di-espansione-prototipazione/osso-beaglebone-io-expansion-board
 
