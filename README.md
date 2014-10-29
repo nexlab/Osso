@@ -1,3 +1,5 @@
+NOTE: OSSO NOW IS MANAGED BY NEXLAB (http://www.nexlab.net) AND THE OFFICIAL REPOSITORY IS NOW https://github.com/nexlab/Osso
+
 Osso
 ====
 
